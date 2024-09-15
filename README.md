@@ -1,24 +1,12 @@
-# tradecon-vue
+Trading Economics
+===
 
-## Project setup
-```
-yarn install
-```
+It is advised that if you are using your own key do not host this code. Otherwise, use `guest:guest`
 
-### Compiles and hot-reloads for development
-```
+## Usage
+
+```sh
+git clone https://github.com/samweru/tradecon-vue
+cd tradecon-vue
 yarn serve
 ```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
